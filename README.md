@@ -12,7 +12,7 @@ I'm most known for my work within the iOS jailbreaking community, but I also wri
 
 I also am a member of [Zenith](/ZenithDevs/), a team of young developers who focus on pushing the limits of iOS.
 
-- 📦 [**Parcility**](https://parcility.com) is a service that lets you browse jailbreak repos and packages, both in the brower and as an API.
+- 📦 [**Parcility**](https://parcility.co) is a service that lets you browse jailbreak repos and packages, both in the brower and as an API.
     - 🐶 [**Kennel**](https://github.com/ZenithDevs/Kennel) renders Sileo native depictions as a web page.
 - 🎮 [**Eclipse**](https://github.com/ZenithDevs/Eclipse) is a Web-based, multi-platform emulator with a focus on ease of use.
 - 🎨 [**OpenSkin**](https://openskin.zenithdevs.com/) is a specification geared towards theming web apps.
